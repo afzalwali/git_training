@@ -15,4 +15,5 @@ This is the repository containing the source material for the Git Training Works
 - A very useful HOWTO for git rebase. Download [here](Documents/ENG-GitRebaseHOWTO-060515-0902-34.pdf).
 [on edX wiki](https://openedx.atlassian.net/wiki/display/ENG/Git+Rebase+HOWTO)
 
-- github branching
+- github-flow:
+[here](http://scottchacon.com/2011/08/31/github-flow.html) and [here](https://guides.github.com/introduction/flow/)
